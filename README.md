@@ -2,7 +2,7 @@
 
 ## 项目简介
 本项目提供了一种简单、高效的方式通过 Hugging Face Spaces 访问 DocsAnthropic2API 服务。
-
+原仓库地址：https://github.com/xLmiler/DocsAnthropic2API
 ## 获取方式
 
 ### 方法一：GitHub 仓库部署
